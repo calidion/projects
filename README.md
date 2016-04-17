@@ -31,6 +31,12 @@ nodejs开源项目交流QQ群：312685910。
 * 全栈网址导航项目: [Sites Navigator](https://github.com/3gcnbeta/www)
 * 可配置批量数据验证器: [Form Validator](https://github.com/JSSDKCN/node-form-validator)
 * 文件云项目: [File Cloud](https://github.com/file-cloud)
+* 模拟常量: [consto](https://github.com/calidion/consto)
+* egg API: [egg](https://github.com/calidion/egg) 一个更加简易的API框架
+
+### UI项目
+* eggui: [eggui](https://github.com/calidion/eggui) 一个基于BootStrap的移动端UI框架
+* 
 
 ### 针对第三方SDK项目
 * 微信SDK: [node-weixin](https://github.com/node-weixin)
